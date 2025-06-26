@@ -1,0 +1,11 @@
+pageObject\MyAccountPage.class
+pageObject\RegistrationPage.class
+testCases\Tc_002_Login_dtt.class
+testCases\Tc_001_Verify_LoginSuccesful.class
+utilities\ExcelUtilities.class
+utilities\ProviderClass.class
+pageObject\BasePageObject.class
+testCases\VerifyRegistrationSuccessful.class
+testBases\BaseClass.class
+pageObject\HomePage.class
+pageObject\LoginPage.class

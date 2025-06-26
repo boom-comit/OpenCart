@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-26T17:29:22 IST" name="Suite" finished-at="2025-06-26T17:30:44 IST" duration-ms="81889">
+    <groups>
+    </groups>
+    <test started-at="2025-06-26T17:29:22 IST" name="MasterTestcases" finished-at="2025-06-26T17:30:44 IST" duration-ms="81889">
+      <class name="testCases.Tc_001_Verify_LoginSuccesful">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.Tc_001_Verify_LoginSuccesful@7b8b43c7]" started-at="2025-06-26T17:29:42 IST" name="setup" finished-at="2025-06-26T17:29:52 IST" duration-ms="9634" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LoginSuccessfu()[pri:0, instance:testCases.Tc_001_Verify_LoginSuccesful@7b8b43c7]" started-at="2025-06-26T17:29:52 IST" name="LoginSuccessfu" finished-at="2025-06-26T17:30:08 IST" duration-ms="16670" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginSuccessfu -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.Tc_001_Verify_LoginSuccesful@7b8b43c7]" started-at="2025-06-26T17:30:08 IST" name="teardown" finished-at="2025-06-26T17:30:09 IST" duration-ms="390" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testCases.Tc_001_Verify_LoginSuccesful -->
+      <class name="testCases.VerifyRegistrationSuccessful">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.VerifyRegistrationSuccessful@3b8f0a79]" started-at="2025-06-26T17:29:22 IST" name="setup" finished-at="2025-06-26T17:29:32 IST" duration-ms="10071" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="registration()[pri:0, instance:testCases.VerifyRegistrationSuccessful@3b8f0a79]" started-at="2025-06-26T17:29:32 IST" name="registration" finished-at="2025-06-26T17:29:42 IST" duration-ms="9432" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registration -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.VerifyRegistrationSuccessful@3b8f0a79]" started-at="2025-06-26T17:29:42 IST" name="teardown" finished-at="2025-06-26T17:29:42 IST" duration-ms="374" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testCases.VerifyRegistrationSuccessful -->
+      <class name="testCases.Tc_002_Login_dtt">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.Tc_002_Login_dtt@7aaca91a]" started-at="2025-06-26T17:30:09 IST" name="setup" finished-at="2025-06-26T17:30:18 IST" duration-ms="9199" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ValidateLogin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.Tc_002_Login_dtt@7aaca91a]" started-at="2025-06-26T17:30:19 IST" name="ValidateLogin" data-provider="dp" finished-at="2025-06-26T17:30:32 IST" duration-ms="12194" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rguha837@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abcd_1234]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateLogin -->
+        <test-method signature="ValidateLogin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.Tc_002_Login_dtt@7aaca91a]" started-at="2025-06-26T17:30:32 IST" name="ValidateLogin" data-provider="dp" finished-at="2025-06-26T17:30:44 IST" duration-ms="11900" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sg@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abc_1234]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateLogin -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.Tc_002_Login_dtt@7aaca91a]" started-at="2025-06-26T17:30:44 IST" name="teardown" finished-at="2025-06-26T17:30:44 IST" duration-ms="352" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testCases.Tc_002_Login_dtt -->
+    </test> <!-- MasterTestcases -->
+  </suite> <!-- Suite -->
+</testng-results>

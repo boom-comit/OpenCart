@@ -1,0 +1,373 @@
+2025-06-22 17:35:33,454 [main] ERROR testCases.VerifyRegistrationSuccessful - Test Failed
+2025-06-22 17:35:33,464 [main] DEBUG testCases.VerifyRegistrationSuccessful - Debug logs
+2025-06-22 17:37:06,591 [main] INFO  testCases.VerifyRegistrationSuccessful - ***** Starting the test****
+2025-06-22 17:37:06,826 [main] INFO  testCases.VerifyRegistrationSuccessful - My account clicked
+2025-06-22 17:37:09,508 [main] INFO  testCases.VerifyRegistrationSuccessful - Register clicked
+2025-06-22 17:37:11,432 [main] INFO  testCases.VerifyRegistrationSuccessful - details enterd
+2025-06-22 17:37:15,542 [main] INFO  testCases.VerifyRegistrationSuccessful - Your Account Has Been Created!
+2025-06-22 17:37:15,589 [main] ERROR testCases.VerifyRegistrationSuccessful - Test Failed
+2025-06-22 17:37:15,590 [main] DEBUG testCases.VerifyRegistrationSuccessful - Debug logs
+2025-06-22 17:59:14,830 [main] INFO  testCases.VerifyRegistrationSuccessful - ***** Starting the test****
+2025-06-22 17:59:15,189 [main] INFO  testCases.VerifyRegistrationSuccessful - My account clicked
+2025-06-22 17:59:17,947 [main] INFO  testCases.VerifyRegistrationSuccessful - Register clicked
+2025-06-22 17:59:20,146 [main] INFO  testCases.VerifyRegistrationSuccessful - details enterd
+2025-06-22 17:59:24,254 [main] INFO  testCases.VerifyRegistrationSuccessful - Your Account Has Been Created!
+2025-06-22 17:59:24,320 [main] INFO  testCases.VerifyRegistrationSuccessful - Test Passed
+2025-06-22 17:59:24,330 [main] INFO  testCases.VerifyRegistrationSuccessful - ******Finised Tc001*****
+2025-06-22 18:00:16,570 [main] INFO  testCases.VerifyRegistrationSuccessful - ***** Starting the test****
+2025-06-22 18:00:16,979 [main] INFO  testCases.VerifyRegistrationSuccessful - My account clicked
+2025-06-22 18:00:19,737 [main] INFO  testCases.VerifyRegistrationSuccessful - Register clicked
+2025-06-22 18:00:21,799 [main] INFO  testCases.VerifyRegistrationSuccessful - details enterd
+2025-06-22 18:00:25,929 [main] INFO  testCases.VerifyRegistrationSuccessful - Your Account Has Been Created!
+2025-06-22 18:00:25,984 [main] INFO  testCases.VerifyRegistrationSuccessful - Test Passed
+2025-06-22 18:00:25,993 [main] INFO  testCases.VerifyRegistrationSuccessful - ******Finised Tc001*****
+2025-06-22 18:02:52,904 [main] INFO  testCases.VerifyRegistrationSuccessful - Invaid Browser
+2025-06-22 18:02:52,935 [main] INFO  testCases.VerifyRegistrationSuccessful - ***** Starting the test****
+2025-06-22 18:10:41,293 [TestNG-tests-1] INFO  testCases.VerifyRegistrationSuccessful - ***** Starting the test****
+2025-06-22 18:10:42,016 [TestNG-tests-1] INFO  testCases.VerifyRegistrationSuccessful - My account clicked
+2025-06-22 18:10:44,823 [TestNG-tests-1] INFO  testCases.VerifyRegistrationSuccessful - Register clicked
+2025-06-22 18:10:46,726 [TestNG-tests-1] INFO  testCases.VerifyRegistrationSuccessful - details enterd
+2025-06-22 18:10:47,381 [TestNG-tests-2] INFO  testCases.VerifyRegistrationSuccessful - ***** Starting the test****
+2025-06-22 18:10:47,751 [TestNG-tests-2] INFO  testCases.VerifyRegistrationSuccessful - My account clicked
+2025-06-22 18:10:50,325 [TestNG-tests-2] INFO  testCases.VerifyRegistrationSuccessful - Register clicked
+2025-06-22 18:10:50,777 [TestNG-tests-1] INFO  testCases.VerifyRegistrationSuccessful - Your Account Has Been Created!
+2025-06-22 18:10:50,803 [TestNG-tests-1] INFO  testCases.VerifyRegistrationSuccessful - Test Passed
+2025-06-22 18:10:50,809 [TestNG-tests-1] INFO  testCases.VerifyRegistrationSuccessful - ******Finised Tc001*****
+2025-06-22 18:10:51,712 [TestNG-tests-2] INFO  testCases.VerifyRegistrationSuccessful - details enterd
+2025-06-22 18:10:55,778 [TestNG-tests-2] INFO  testCases.VerifyRegistrationSuccessful - Your Account Has Been Created!
+2025-06-22 18:10:55,820 [TestNG-tests-2] INFO  testCases.VerifyRegistrationSuccessful - Test Passed
+2025-06-22 18:10:55,820 [TestNG-tests-2] INFO  testCases.VerifyRegistrationSuccessful - ******Finised Tc001*****
+2025-06-22 18:28:36,584 [main] INFO  testCases.VerifyRegistrationSuccessful - ***** Starting the test****
+2025-06-22 18:28:36,975 [main] INFO  testCases.VerifyRegistrationSuccessful - My account clicked
+2025-06-22 18:28:39,698 [main] INFO  testCases.VerifyRegistrationSuccessful - Register clicked
+2025-06-22 18:28:41,149 [main] INFO  testCases.VerifyRegistrationSuccessful - details enterd
+2025-06-22 18:28:45,216 [main] INFO  testCases.VerifyRegistrationSuccessful - Your Account Has Been Created!
+2025-06-22 18:28:45,257 [main] INFO  testCases.VerifyRegistrationSuccessful - Test Passed
+2025-06-22 18:28:45,268 [main] INFO  testCases.VerifyRegistrationSuccessful - ******Finised Tc001*****
+2025-06-22 18:29:10,674 [main] INFO  testCases.VerifyRegistrationSuccessful - ***** Starting the test****
+2025-06-22 18:29:11,045 [main] INFO  testCases.VerifyRegistrationSuccessful - My account clicked
+2025-06-22 18:29:13,634 [main] INFO  testCases.VerifyRegistrationSuccessful - Register clicked
+2025-06-22 18:29:15,197 [main] INFO  testCases.VerifyRegistrationSuccessful - details enterd
+2025-06-22 18:29:19,264 [main] INFO  testCases.VerifyRegistrationSuccessful - Your Account Has Been Created!
+2025-06-22 18:29:19,308 [main] INFO  testCases.VerifyRegistrationSuccessful - Test Passed
+2025-06-22 18:29:19,319 [main] INFO  testCases.VerifyRegistrationSuccessful - ******Finised Tc001*****
+2025-06-25 19:59:50,778 [main] INFO  testCases.Tc_001_Verify_LoginSuccesful - *****Starting Test*****
+2025-06-25 21:11:11,440 [main] INFO  testCases.Tc_001_Verify_LoginSuccesful - *****Starting Test*****
+2025-06-25 21:11:46,396 [main] INFO  testCases.Tc_001_Verify_LoginSuccesful - *****Starting Test*****
+2025-06-25 21:46:04,296 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-25 21:46:04,307 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-25 21:46:04,308 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-25 21:46:05,692 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-25 21:46:05,696 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-25 21:46:05,697 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-25 21:46:05,757 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-25 21:46:05,761 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-25 21:46:05,762 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-25 21:46:05,924 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-25 21:46:05,926 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-25 21:46:05,929 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-25 21:46:05,992 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-25 21:46:05,995 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-25 21:46:05,996 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-25 21:46:06,041 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-25 21:46:06,042 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-25 21:46:06,045 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-25 21:46:06,096 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-25 21:46:06,098 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-25 21:46:06,099 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-25 21:46:06,137 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-25 21:46:06,138 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-25 21:46:06,139 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-25 21:46:06,199 [main] INFO  testCases.Tc_002_Login_dtt - *****Starting Test*****
+2025-06-25 21:46:18,296 [main] INFO  testCases.Tc_002_Login_dtt - ***Finished Tsting*****
+2025-06-25 21:46:18,304 [main] INFO  testCases.Tc_002_Login_dtt - *****Starting Test*****
+2025-06-25 21:46:29,750 [main] INFO  testCases.Tc_002_Login_dtt - ***Finished Tsting*****
+2025-06-25 21:58:28,707 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-25 21:58:28,715 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-25 21:58:28,719 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-25 21:58:29,358 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-25 21:58:29,360 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-25 21:58:29,362 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-25 21:58:29,431 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-25 21:58:29,435 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-25 21:58:29,438 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-25 21:58:29,506 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-25 21:58:29,509 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-25 21:58:29,511 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-25 21:58:29,563 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-25 21:58:29,564 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-25 21:58:29,565 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-25 21:58:29,625 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-25 21:58:29,626 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-25 21:58:29,627 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-25 21:58:29,671 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-25 21:58:29,672 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-25 21:58:29,673 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-25 21:58:29,709 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-25 21:58:29,711 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-25 21:58:29,713 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-25 21:58:29,776 [main] INFO  testCases.Tc_002_Login_dtt - *****Starting Test*****
+2025-06-25 21:58:41,301 [main] INFO  testCases.Tc_002_Login_dtt - ***Finished Tsting*****
+2025-06-25 21:58:41,310 [main] INFO  testCases.Tc_002_Login_dtt - *****Starting Test*****
+2025-06-25 21:58:52,221 [main] INFO  testCases.Tc_002_Login_dtt - ***Finished Tsting*****
+2025-06-26 01:29:16,999 [main] INFO  testCases.VerifyRegistrationSuccessful - ***** Starting the test****
+2025-06-26 01:29:17,219 [main] INFO  testCases.VerifyRegistrationSuccessful - My account clicked
+2025-06-26 01:29:20,022 [main] INFO  testCases.VerifyRegistrationSuccessful - Register clicked
+2025-06-26 01:29:22,288 [main] INFO  testCases.VerifyRegistrationSuccessful - details enterd
+2025-06-26 01:29:26,473 [main] INFO  testCases.VerifyRegistrationSuccessful - Your Account Has Been Created!
+2025-06-26 01:29:26,517 [main] INFO  testCases.VerifyRegistrationSuccessful - Test Passed
+2025-06-26 01:29:26,522 [main] INFO  testCases.VerifyRegistrationSuccessful - ******Finised Tc001*****
+2025-06-26 01:29:36,042 [main] INFO  testCases.Tc_001_Verify_LoginSuccesful - *****Starting Test*****
+2025-06-26 01:30:01,875 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-26 01:30:01,881 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-26 01:30:01,883 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-26 01:30:02,585 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-26 01:30:02,588 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-26 01:30:02,589 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-26 01:30:02,651 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-26 01:30:02,652 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-26 01:30:02,654 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-26 01:30:02,716 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-26 01:30:02,718 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-26 01:30:02,719 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-26 01:30:02,766 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-26 01:30:02,767 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-26 01:30:02,772 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-26 01:30:02,829 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-26 01:30:02,830 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-26 01:30:02,832 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-26 01:30:02,873 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-26 01:30:02,877 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-26 01:30:02,878 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-26 01:30:02,920 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-26 01:30:02,921 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-26 01:30:02,923 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-26 01:30:02,970 [main] INFO  testCases.Tc_002_Login_dtt - *****Starting Test*****
+2025-06-26 01:30:17,463 [main] INFO  testCases.Tc_002_Login_dtt - ***Finished Tsting*****
+2025-06-26 01:30:17,476 [main] INFO  testCases.Tc_002_Login_dtt - *****Starting Test*****
+2025-06-26 01:30:28,606 [main] INFO  testCases.Tc_002_Login_dtt - ***Finished Tsting*****
+2025-06-26 16:36:35,363 [main] INFO  testCases.VerifyRegistrationSuccessful - ***** Starting the test****
+2025-06-26 16:36:35,548 [main] INFO  testCases.VerifyRegistrationSuccessful - My account clicked
+2025-06-26 16:36:38,494 [main] INFO  testCases.VerifyRegistrationSuccessful - Register clicked
+2025-06-26 16:36:40,410 [main] INFO  testCases.VerifyRegistrationSuccessful - details enterd
+2025-06-26 16:36:44,566 [main] INFO  testCases.VerifyRegistrationSuccessful - Your Account Has Been Created!
+2025-06-26 16:36:44,668 [main] INFO  testCases.VerifyRegistrationSuccessful - Test Passed
+2025-06-26 16:36:44,686 [main] INFO  testCases.VerifyRegistrationSuccessful - ******Finised Tc001*****
+2025-06-26 16:36:54,630 [main] INFO  testCases.Tc_001_Verify_LoginSuccesful - *****Starting Test*****
+2025-06-26 16:37:18,869 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-26 16:37:18,878 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-26 16:37:18,889 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-26 16:37:19,565 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-26 16:37:19,567 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-26 16:37:19,568 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-26 16:37:19,625 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-26 16:37:19,627 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-26 16:37:19,630 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-26 16:37:19,687 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-26 16:37:19,688 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-26 16:37:19,689 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-26 16:37:19,733 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-26 16:37:19,735 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-26 16:37:19,736 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-26 16:37:19,781 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-26 16:37:19,783 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-26 16:37:19,784 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-26 16:37:19,825 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-26 16:37:19,827 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-26 16:37:19,828 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-26 16:37:19,875 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-26 16:37:19,877 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-26 16:37:19,878 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-26 16:37:19,935 [main] INFO  testCases.Tc_002_Login_dtt - *****Starting Test*****
+2025-06-26 16:37:32,165 [main] INFO  testCases.Tc_002_Login_dtt - ***Finished Tsting*****
+2025-06-26 16:37:32,179 [main] INFO  testCases.Tc_002_Login_dtt - *****Starting Test*****
+2025-06-26 16:37:43,932 [main] INFO  testCases.Tc_002_Login_dtt - ***Finished Tsting*****
+2025-06-26 16:41:35,578 [main] INFO  testCases.VerifyRegistrationSuccessful - ***** Starting the test****
+2025-06-26 16:41:35,836 [main] INFO  testCases.VerifyRegistrationSuccessful - My account clicked
+2025-06-26 16:41:38,742 [main] INFO  testCases.VerifyRegistrationSuccessful - Register clicked
+2025-06-26 16:41:40,805 [main] INFO  testCases.VerifyRegistrationSuccessful - details enterd
+2025-06-26 16:45:05,992 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Saptarshi\eclipse-workspace\SeleniumFramework\Master.xml"
+2025-06-26 16:45:18,063 [main] INFO  testCases.VerifyRegistrationSuccessful - ***** Starting the test****
+2025-06-26 16:45:18,257 [main] INFO  testCases.VerifyRegistrationSuccessful - My account clicked
+2025-06-26 16:45:21,014 [main] INFO  testCases.VerifyRegistrationSuccessful - Register clicked
+2025-06-26 16:45:23,074 [main] INFO  testCases.VerifyRegistrationSuccessful - details enterd
+2025-06-26 16:45:27,196 [main] INFO  testCases.VerifyRegistrationSuccessful - Your Account Has Been Created!
+2025-06-26 16:45:27,275 [main] INFO  testCases.VerifyRegistrationSuccessful - Test Passed
+2025-06-26 16:45:27,281 [main] INFO  testCases.VerifyRegistrationSuccessful - ******Finised Tc001*****
+2025-06-26 16:45:37,139 [main] INFO  testCases.Tc_001_Verify_LoginSuccesful - *****Starting Test*****
+2025-06-26 16:46:01,976 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-26 16:46:01,984 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-26 16:46:01,986 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-26 16:46:02,658 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-26 16:46:02,663 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-26 16:46:02,664 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-26 16:46:02,725 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-26 16:46:02,726 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-26 16:46:02,730 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-26 16:46:02,816 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-26 16:46:02,821 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-26 16:46:02,823 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-26 16:46:02,888 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-26 16:46:02,891 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-26 16:46:02,895 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-26 16:46:02,956 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-26 16:46:02,959 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-26 16:46:02,960 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-26 16:46:03,075 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-26 16:46:03,077 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-26 16:46:03,080 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-26 16:46:03,125 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-26 16:46:03,126 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-26 16:46:03,129 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-26 16:46:03,209 [main] INFO  testCases.Tc_002_Login_dtt - *****Starting Test*****
+2025-06-26 16:46:14,835 [main] INFO  testCases.Tc_002_Login_dtt - ***Finished Tsting*****
+2025-06-26 16:46:14,838 [main] INFO  testCases.Tc_002_Login_dtt - *****Starting Test*****
+2025-06-26 16:46:26,092 [main] INFO  testCases.Tc_002_Login_dtt - ***Finished Tsting*****
+2025-06-26 17:05:03,802 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Saptarshi\eclipse-workspace\SeleniumFramework\Master.xml"
+2025-06-26 17:05:15,834 [main] INFO  testCases.VerifyRegistrationSuccessful - ***** Starting the test****
+2025-06-26 17:05:16,081 [main] INFO  testCases.VerifyRegistrationSuccessful - My account clicked
+2025-06-26 17:05:18,736 [main] INFO  testCases.VerifyRegistrationSuccessful - Register clicked
+2025-06-26 17:05:20,773 [main] INFO  testCases.VerifyRegistrationSuccessful - details enterd
+2025-06-26 17:05:24,826 [main] INFO  testCases.VerifyRegistrationSuccessful - Your Account Has Been Created!
+2025-06-26 17:05:24,856 [main] INFO  testCases.VerifyRegistrationSuccessful - Test Passed
+2025-06-26 17:05:24,862 [main] INFO  testCases.VerifyRegistrationSuccessful - ******Finised Tc001*****
+2025-06-26 17:05:35,188 [main] INFO  testCases.Tc_001_Verify_LoginSuccesful - *****Starting Test*****
+2025-06-26 17:06:01,664 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-26 17:06:01,669 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-26 17:06:01,670 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-26 17:06:02,854 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-26 17:06:02,856 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-26 17:06:02,857 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-26 17:06:02,932 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-26 17:06:02,935 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-26 17:06:02,936 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-26 17:06:03,001 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-26 17:06:03,002 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-26 17:06:03,004 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-26 17:06:03,059 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-26 17:06:03,060 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-26 17:06:03,062 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-26 17:06:03,104 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-26 17:06:03,105 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-26 17:06:03,107 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-26 17:06:03,148 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-26 17:06:03,149 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-26 17:06:03,150 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-26 17:06:03,189 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-26 17:06:03,190 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-26 17:06:03,192 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-26 17:06:03,231 [main] INFO  testCases.Tc_002_Login_dtt - *****Starting Test*****
+2025-06-26 17:06:15,218 [main] INFO  testCases.Tc_002_Login_dtt - ***Finished Tsting*****
+2025-06-26 17:06:15,221 [main] INFO  testCases.Tc_002_Login_dtt - *****Starting Test*****
+2025-06-26 17:06:26,589 [main] INFO  testCases.Tc_002_Login_dtt - ***Finished Tsting*****
+2025-06-26 17:07:26,528 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Saptarshi\eclipse-workspace\SeleniumFramework\Master.xml"
+2025-06-26 17:07:38,140 [main] INFO  testCases.VerifyRegistrationSuccessful - ***** Starting the test****
+2025-06-26 17:07:38,314 [main] INFO  testCases.VerifyRegistrationSuccessful - My account clicked
+2025-06-26 17:07:41,156 [main] INFO  testCases.VerifyRegistrationSuccessful - Register clicked
+2025-06-26 17:07:43,087 [main] INFO  testCases.VerifyRegistrationSuccessful - details enterd
+2025-06-26 17:07:47,135 [main] INFO  testCases.VerifyRegistrationSuccessful - Your Account Has Been Created!
+2025-06-26 17:07:47,162 [main] INFO  testCases.VerifyRegistrationSuccessful - Test Passed
+2025-06-26 17:07:47,166 [main] INFO  testCases.VerifyRegistrationSuccessful - ******Finised Tc001*****
+2025-06-26 17:07:57,243 [main] INFO  testCases.Tc_001_Verify_LoginSuccesful - *****Starting Test*****
+2025-06-26 17:08:22,171 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-26 17:08:22,176 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-26 17:08:22,178 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-26 17:08:22,884 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-26 17:08:22,889 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-26 17:08:22,891 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-26 17:08:22,965 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-26 17:08:22,967 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-26 17:08:22,970 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-26 17:08:23,035 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-26 17:08:23,039 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-26 17:08:23,040 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-26 17:08:23,084 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-26 17:08:23,096 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-26 17:08:23,098 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-26 17:08:23,146 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-26 17:08:23,149 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-26 17:08:23,150 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-26 17:08:23,193 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-26 17:08:23,197 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-26 17:08:23,198 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-26 17:08:23,247 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-26 17:08:23,249 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-26 17:08:23,251 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-26 17:08:23,294 [main] INFO  testCases.Tc_002_Login_dtt - *****Starting Test*****
+2025-06-26 17:08:34,648 [main] INFO  testCases.Tc_002_Login_dtt - ***Finished Tsting*****
+2025-06-26 17:08:34,660 [main] INFO  testCases.Tc_002_Login_dtt - *****Starting Test*****
+2025-06-26 17:08:45,572 [main] INFO  testCases.Tc_002_Login_dtt - ***Finished Tsting*****
+2025-06-26 17:27:45,756 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Saptarshi\eclipse-workspace\SeleniumFramework\Master.xml"
+2025-06-26 17:27:56,245 [main] INFO  testCases.VerifyRegistrationSuccessful - ***** Starting the test****
+2025-06-26 17:27:56,423 [main] INFO  testCases.VerifyRegistrationSuccessful - My account clicked
+2025-06-26 17:27:59,471 [main] INFO  testCases.VerifyRegistrationSuccessful - Register clicked
+2025-06-26 17:28:01,740 [main] INFO  testCases.VerifyRegistrationSuccessful - details enterd
+2025-06-26 17:28:05,951 [main] INFO  testCases.VerifyRegistrationSuccessful - Your Account Has Been Created!
+2025-06-26 17:28:06,001 [main] INFO  testCases.VerifyRegistrationSuccessful - Test Passed
+2025-06-26 17:28:06,007 [main] INFO  testCases.VerifyRegistrationSuccessful - ******Finised Tc001*****
+2025-06-26 17:28:15,781 [main] INFO  testCases.Tc_001_Verify_LoginSuccesful - *****Starting Test*****
+2025-06-26 17:28:41,762 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-26 17:28:41,768 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-26 17:28:41,770 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-26 17:28:42,428 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-26 17:28:42,430 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-26 17:28:42,431 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-26 17:28:42,493 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-26 17:28:42,495 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-26 17:28:42,497 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-26 17:28:42,556 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-26 17:28:42,557 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-26 17:28:42,558 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-26 17:28:42,598 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-26 17:28:42,599 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-26 17:28:42,602 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-26 17:28:42,659 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-26 17:28:42,661 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-26 17:28:42,663 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-26 17:28:42,706 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-26 17:28:42,707 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-26 17:28:42,708 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-26 17:28:42,747 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-26 17:28:42,749 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-26 17:28:42,752 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-26 17:28:42,791 [main] INFO  testCases.Tc_002_Login_dtt - *****Starting Test*****
+2025-06-26 17:28:54,374 [main] INFO  testCases.Tc_002_Login_dtt - ***Finished Tsting*****
+2025-06-26 17:28:54,378 [main] INFO  testCases.Tc_002_Login_dtt - *****Starting Test*****
+2025-06-26 17:29:06,440 [main] INFO  testCases.Tc_002_Login_dtt - ***Finished Tsting*****
+2025-06-26 17:29:22,206 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Saptarshi\eclipse-workspace\SeleniumFramework\Master.xml"
+2025-06-26 17:29:32,733 [main] INFO  testCases.VerifyRegistrationSuccessful - ***** Starting the test****
+2025-06-26 17:29:32,949 [main] INFO  testCases.VerifyRegistrationSuccessful - My account clicked
+2025-06-26 17:29:35,838 [main] INFO  testCases.VerifyRegistrationSuccessful - Register clicked
+2025-06-26 17:29:37,869 [main] INFO  testCases.VerifyRegistrationSuccessful - details enterd
+2025-06-26 17:29:42,028 [main] INFO  testCases.VerifyRegistrationSuccessful - Your Account Has Been Created!
+2025-06-26 17:29:42,134 [main] INFO  testCases.VerifyRegistrationSuccessful - Test Passed
+2025-06-26 17:29:42,144 [main] INFO  testCases.VerifyRegistrationSuccessful - ******Finised Tc001*****
+2025-06-26 17:29:52,168 [main] INFO  testCases.Tc_001_Verify_LoginSuccesful - *****Starting Test*****
+2025-06-26 17:30:18,947 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-26 17:30:18,955 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-26 17:30:18,957 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-26 17:30:19,612 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-26 17:30:19,614 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-26 17:30:19,617 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-26 17:30:19,671 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-26 17:30:19,673 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-26 17:30:19,675 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-26 17:30:19,738 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-26 17:30:19,740 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-26 17:30:19,742 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-26 17:30:19,785 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-26 17:30:19,787 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-26 17:30:19,788 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-26 17:30:19,847 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-26 17:30:19,851 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-26 17:30:19,851 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-26 17:30:19,897 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-26 17:30:19,901 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-26 17:30:19,902 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-26 17:30:19,946 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-26 17:30:19,949 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2025-06-26 17:30:19,950 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-06-26 17:30:19,985 [main] INFO  testCases.Tc_002_Login_dtt - *****Starting Test*****
+2025-06-26 17:30:32,172 [main] INFO  testCases.Tc_002_Login_dtt - ***Finished Tsting*****
+2025-06-26 17:30:32,175 [main] INFO  testCases.Tc_002_Login_dtt - *****Starting Test*****
+2025-06-26 17:30:44,074 [main] INFO  testCases.Tc_002_Login_dtt - ***Finished Tsting*****
